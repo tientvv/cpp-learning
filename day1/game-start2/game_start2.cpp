@@ -1,4 +1,4 @@
-// day1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// game-start2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
